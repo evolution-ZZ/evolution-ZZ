@@ -1,9 +1,10 @@
 <!-- evolution-ZZ | Cyberpunk GitHub README -->
-### 
+###
 
 <p align="center">
-  <img src="https://github.com/evolution-ZZ/evolution-ZZ/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
+  <img src="https://github.com/evolution-ZZ/snk/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 <div align="center">
