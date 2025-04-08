@@ -44,8 +44,9 @@
 ## 🛠 技术栈 / TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,linux,git,github,vscode,matlab,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,anaconda,opencv,latex,html,linux,git,github,vscode,visualstudio,matlab,pr&theme=dark" />
 </div>
+
 
 - 🔧 常用：C++ / Python / STM32
 - 🎯 热衷：机械结构设计、机械臂仿真、视觉检测
