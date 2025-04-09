@@ -99,6 +99,39 @@
 
 ---
 
+## 🤝 Friends / Collaborators
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zuquanzhi">
+        <img src="https://github.com/zuquanzhi.png" width="80" style="border-radius: 50%;" /><br />
+        <sub><b>zuquanzhi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vigneqing">
+        <img src="https://github.com/vigneqing.png" width="80" style="border-radius: 50%;" /><br />
+        <sub><b>vigneqing</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rokiii1012">
+        <img src="https://github.com/Rokiii1012.png" width="80" style="border-radius: 50%;" /><br />
+        <sub><b>Rokiii1012</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chihuaji">
+        <img src="https://github.com/chihuaji.png" width="80" style="border-radius: 50%;" /><br />
+        <sub><b>chihuaji</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Quote for the Void
 
 <div align="center">
