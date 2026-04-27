@@ -82,9 +82,6 @@
 | 🚧 项目代号 | 📘 简介 | ⚙️ 技术 |
 |------------|--------|--------|
 | [**z-card-site**](https://github.com/evolution-ZZ/z-card-site/) | 简易个人名片 | `HTML`, `JavaScript` |
-| [**KIWI-seeker**](https://github.com/evolution-ZZ/KIWI-seeker) | 猕猴桃位姿识别系统 | `YOLOv8`, `RealSense`, `OpenCV` |
-| [**GcodeWizard**](https://github.com/evolution-ZZ/GcodeWizard) | 自动生成并批处理 Gcode 的 CLI 工具 | `Python`, `3D打印工具链` |
-| [**MechX**](https://github.com/evolution-ZZ/mechX) | 基于 MATLAB 的机械臂运动仿真 | `Matlab` |
 
 ---
 
@@ -140,7 +137,7 @@
 
 ---
 
-> 「世界越是混沌，工程师的手就越能塑造组织和经纬。」
+> 「追求进步而非追求完美」
 >  
-> — evolution-ZZ
+> — Albert Zhou
 
