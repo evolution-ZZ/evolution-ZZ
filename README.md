@@ -29,14 +29,15 @@
 
 ## 🧬 Evolution Protocol Initializing...
 
-> 👾「探索结构与秩序之间的裂缝，寻找代码与现实的临界点。」
+> 👾「在结构、控制与感知之间，寻找机器理解现实的方式。」
 
 ```bash
-> identity --name evolution-ZZ
-🛠 RoboMaster 工程师 & 机械结构爱好者
-📍 威海 Based | 流浪在 C++、机械与电子之间
-🚀 目标： 技术跃迁 + RMUC比赛亮眼
-🌌 信条：进化，不止步
+> identity --name Albert Zhou
+🛠 机械专业本科生 | RoboMaster 工程师
+📍 哈尔滨工业大学（威海）
+🤖 关注方向：机器人系统 / 机械结构设计 / 机电控制 / 视觉感知
+🌊 当前探索：水下作业机械臂
+🌌 信条：持续进化，持续创造。
 ```
 
 ---
@@ -44,25 +45,23 @@
 ## 🛠 技术栈 / TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,anaconda,opencv,latex,html,linux,git,github,vscode,visualstudio,matlab,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,anaconda,opencv,latex,git,github,vscode,visualstudio,matlab,pr&theme=dark" />
 </div>
 
 
-- 🔧 常用：C++ / Python / STM32
-- 🎯 热衷：机械结构设计、机械臂仿真、视觉检测
-- 🧪 研究中：ROS2/ YOLOv8 / 动力学分析仿真 / 更好的3D打印
+- 🔧 常用：C++ / Python 
+- 🎯 探索：结构设计、动力学建模与仿真、视觉伺服
+- 🧪 研究中：ROS2/  动力学分析仿真 / 更好的3D打印
 
 ---
 
 ### 📈 技能熟练度 / SKILL PROFICIENCY
 
 ![C++](https://img.shields.io/badge/C++-60%25-brightgreen)
-![STM32 / 嵌入式](https://img.shields.io/badge/STM32%20%2F%20Embed-85%25-green)
-![机械结构设计](https://img.shields.io/badge/Mechanical%20Design-80%25-yellowgreen)
+![STM32 / 嵌入式](https://img.shields.io/badge/STM32%20%2F%20Embed-25%25-green)
+![机械结构设计](https://img.shields.io/badge/Mechanical%20Design-70%25-yellowgreen)
 ![Python](https://img.shields.io/badge/Python-60%25-yellow)
 ![Matlab](https://img.shields.io/badge/Matlab-50%25-orange)
-![YOLO / CV](https://img.shields.io/badge/YOLO/CV-40%25-red)
-![HTML / 前端](https://img.shields.io/badge/HTML/Frontend-20%25-lightgrey)
 ---
 
 ## 💾 SYSTEM LOGS
@@ -77,7 +76,7 @@
 
 ---
 
-## 🧩 项目面板 / PROJECTS
+## 🧩 项目面板 / PROJECT
 
 | 🚧 项目代号 | 📘 简介 | ⚙️ 技术 |
 |------------|--------|--------|
@@ -91,7 +90,6 @@
   <a href="mailto:m18346326516@163.com"><img src="https://img.shields.io/badge/Email-m18346326516%40163.com-red?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://github.com/evolution-ZZ"><img src="https://img.shields.io/badge/GitHub-evolution--ZZ-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.evolutionz.com.cn"><img src="https://img.shields.io/badge/Website-evolutionz.com.cn-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
- <a href="https://b23.tv/mLIxRTb"><img src="https://img.shields.io/badge/Bilibili-烧烤一下今晚吃点什么-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
 </div>
 
 ---
