@@ -81,6 +81,7 @@
 | 🚧 项目代号 | 📘 简介 | ⚙️ 技术 |
 |------------|--------|--------|
 | [**z-card-site**](https://github.com/evolution-ZZ/z-card-site/) | 简易个人名片 | `HTML`, `JavaScript` |
+| [**two-axis-gimbal-target-tracking-simulation**](https://github.com/evolution-ZZ/two-axis-gimbal-target-tracking-simulation) | 面向机载两自由度云台目标对准任务的仿真框架，实现 GNSS/IMU 姿态补偿、视线解算、级联控制、奇异区保护与 URDF/STL 可视化 | `Python`, `GNSS/IMU`, `Control Simulation`, `URDF`, `PyBullet` |
 
 ---
 
