@@ -126,7 +126,7 @@
     <td align="center">
       <a href="https://github.com/V-IOLE-T">
         <img src="https://github.com/V-IOLE-T.png" width="80" style="border-radius: 50%;" /><br />
-        <sub><b>chihuaji</b></sub>
+        <sub><b>OO</b></sub>
       </a>
     </td>
   </tr>
